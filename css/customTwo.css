@@ -1,0 +1,251 @@
+body
+{
+  background-image: url("../images/bg.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+    font-family: 'Raleway', sans-serif;
+    font-size: 12pt;
+    font-weight: 300;
+    line-height: 1.65em;
+}
+
+.ml-auto .dropdown-menu {
+      left: auto !important;
+      right: 0px;
+    }
+.logoset
+{
+    height:40px;
+    width:150px;
+}
+.stylenone
+{
+    display:none;
+}
+.headerText
+{
+    font-size: 28px;
+    line-height: 1.75em;
+    margin: 2em 0 2em 0;
+    color: white;
+}
+.headerText a
+{
+	text-decoration: underline;
+	color:inherit;
+}
+
+.firstSection
+{
+	height: 300px;
+}
+input[type="button"], .button 
+{
+    -moz-appearance: none;
+    -webkit-appearance: none;
+    -o-appearance: none;
+    -ms-appearance: none;
+    appearance: none;
+    -moz-transition: background-color 0.35s ease-in-out;
+    -webkit-transition: background-color 0.35s ease-in-out;
+    -o-transition: background-color 0.35s ease-in-out;
+    -ms-transition: background-color 0.35s ease-in-out;
+    transition: background-color 0.35s ease-in-out;
+    background: #d84780;
+    border-radius: 6px;
+    border: 0;
+    color: white;
+    cursor: pointer;
+    display: inline-block;
+    padding: 0.75em 1.5em;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    display: inline-block;
+    font-size: 1.2em;
+    font-weight: 600;
+    color: #FFF !important;
+}
+.divbox
+{
+	text-align: center;
+	width:100%;
+	padding: 3em 2em;
+    background: #FFF;
+    border-radius: 0px 0px 6px 6px;
+}
+.dibbox a
+{
+	text-decoration: none;
+}
+.imgBox
+{
+	display: block;
+	width:100%;
+}
+
+.rmargin
+{
+	/*margin-top: 4em;*/
+}
+
+
+ul.divIcon 
+{
+    list-style: none;
+    padding-top: 3em;
+}
+ul.divIcon li:before 
+{
+    position: absolute;
+    left: 0;
+    top: 1em;
+    display: block;
+    background: none;
+    color: #FFF;
+    width: 56px;
+    height: 56px;
+    text-align: center;
+    font-size: 3em;
+    border-radius: 6px;
+}
+ul.divIcon h3 {
+	font-family: 'Raleway', sans-serif;
+    margin-bottom: 0.80em;
+    text-transform: uppercase;
+    font-weight: 800;
+    font-size: 2em;
+    color: #FFF;
+}
+.spanIcon
+{
+	color:#FFF;
+	font-family: 'Raleway', sans-serif;
+	line-height: 190%;
+}
+
+hr
+{
+	color:#FFF;
+}
+
+.pinkStyle
+{
+    background: #d84780;
+    color: white;
+}
+h2
+{
+    margin: 0;
+    padding: 0;
+    line-height: 1em;
+    text-transform: uppercase;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 800;
+    font-size: 2.8em;
+}
+.footSub
+{
+	display: block;
+    margin: 0.50em 0 0 0;
+    padding: 0 0 0.5em 0;
+    font-family: 'Raleway', sans-serif;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    font-size: 1.3em;
+    font-weight: 300;
+}
+
+/*input[type="text"], input[type="password"], input[type="email"], textarea {*/
+    .inputall{
+    -moz-appearance: none;
+    -webkit-appearance: none;
+    -o-appearance: none;
+    -ms-appearance: none;
+    appearance: none;
+    background: white;
+    color: #555555;
+    border: none;
+    display: block;
+    outline: 0;
+    padding: 1em 1em;
+    text-decoration: none;
+    width: 100%;
+    border-radius: 6px;
+    margin-bottom: 2em;
+
+}
+
+::placeholder 
+{
+	color:#c2c2c2;
+}
+
+form
+{
+	padding-top: 2em;
+	/*width:55%;*/
+	font-family: 'Raleway', sans-serif;
+	margin:0em auto;
+}
+form.formwidths
+{
+    padding-top: 2em;
+    width:55%;
+    font-family: 'Raleway', sans-serif;
+    margin:0em auto;
+}
+input[type="button"].formbutton
+{
+	border: 1px solid #FFF;
+}
+.footerBlock
+{
+	height: 200px;
+    background: #0e0b0b;
+    text-align: center;
+    color:#828282;
+}
+
+.footerSocial
+{
+	list-style: none;
+
+	margin: 2em 0 2em 0;
+}
+.footPr
+{
+	    margin: 3em 0 0 0;
+}
+
+ul.footerSocial li a:before
+{
+    display: inline-block;
+    border: 1px solid #828282;
+    width: 2em;
+    height: 2em;
+    line-height: 2em;
+    font-size: 1em;
+    color: #828282;
+    border-radius: 100%;
+    text-align: center;
+}
+
+.footPr a 
+{
+	text-decoration: none;
+	color: #aa9f9f;
+}
+ul.footerSocial li {
+    display: inline-block;
+    padding: 0em 0.20em;
+}
+ 
+ .setHht
+ {
+    height:100px;
+    margin-top: 3em;
+ }
+
+ 

@@ -1,0 +1,180 @@
+*{
+    box-sizing: border-box;
+  }
+.setHeader 
+{
+    background: #aaa;
+    position: relative;
+    height: auto;
+    padding-bottom: 5px;
+}
+.mainContain
+{
+  background: #F1CB00;
+  position: relative;
+  height: 20%;
+  padding-bottom: 5px;
+}
+.headerSect
+{
+  width: 100%;
+  display: block;
+  border-style: solid;
+  padding: 1em;
+  text-align: center;
+  height: auto;
+  margin: 15px 0px;
+}
+
+
+.sliderHeader
+{
+    background: #d4bece;
+    position: relative;
+    height: auto;
+    padding-bottom: 5px;
+}
+.sliderImg
+{
+  width: 100%;
+  display: block;
+  border-style: solid;
+  padding-top: 17rem;
+  padding-bottom: 15rem;
+  text-align: center;
+  height: auto;
+  margin: 15px 0px;
+  text-align: center;
+}
+
+
+.whoheader
+{
+    background: #bec3d4;
+    position: relative;
+    height: auto;
+    padding-bottom: 5px;
+}
+.whoContent
+{
+    width: 100%;
+    display: block;
+    border-style: solid;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+    text-align: center;
+    height: auto;
+    margin: 15px 0px;
+    text-align: center;
+}
+
+.weWork
+{
+  width: 100%;
+  display: block;
+  border-style: solid;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  text-align: center;
+  height: auto;
+  margin: 15px 0px;
+  text-align: center;
+}
+
+.techcont
+{
+  width: 100%;
+  display: block;
+  border-style: solid;
+  padding-top: 8rem;
+  padding-bottom: 8rem;
+  text-align:center;
+  height:auto;
+  margin: 15px 0px;
+  text-align: center;
+}
+.soundhead
+{
+      background:#ffff90;
+    position: relative;
+    height: auto;
+    padding-bottom: 5px;
+}
+.strathead
+{
+        background:#a6d6a0;
+    position: relative;
+    height: auto;
+    padding-bottom: 5px;
+}
+.iconback
+{
+        background:#9c729b;
+    position: relative;
+    height: auto;
+    padding-bottom: 10px;
+}
+.iconcont
+{
+  width: 100%;
+  display: block;
+  border-style: solid;
+  padding-top: 8rem;
+  padding-bottom: 8rem;
+  text-align:center;
+  height:auto;
+  margin: 15px 0px;
+  text-align: center;
+}
+
+
+.imgbacsec
+{
+    background:#7ff79e;
+    position: relative;
+    height: auto;
+    padding-bottom: 12px;
+}
+
+.addressback
+{
+    background:#9d8ad8;
+    position: relative;
+    height: auto;
+    padding-bottom: 8px;
+}
+.addrcont
+{
+  width: 100%;
+  display: block;
+  border-style: solid;
+  padding-top: 4rem;
+  padding-bottom: 4rem;
+  text-align:left;
+  height:auto;
+  margin: 15px 0px;
+  text-align: left;
+}
+
+.keepback
+{
+    background:#5fa2a2;
+    position: relative;
+    height: auto;
+    padding-bottom: 8px;
+}
+.keepcont
+{
+  width: 100%;
+  display: block;
+  border-style: solid;
+  padding-top: 4rem;
+  padding-bottom: 4rem;
+  text-align:left;
+  height:auto;
+  margin: 15px 0px;
+  text-align: center;
+}
+
+
+

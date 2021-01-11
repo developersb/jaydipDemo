@@ -1,0 +1,208 @@
+
+* {
+  box-sizing: border-box;
+}
+
+.setHeader 
+{
+    height: 100px;
+    background: #aaa;
+
+}
+.headerSect
+{
+    width:100%;
+    display:block;
+    border-style: solid;
+    padding:4em;
+    text-align: center;
+    height:15%;
+    margin:15px 0px;
+}
+
+.twoCol
+{
+  width:100%;
+  display:block;
+  border-style: solid;
+  padding: 4em;
+  text-align: center;
+  height: 20%;
+  margin:15px 0px;
+}
+
+
+
+.logoSec
+{
+   	 height: 150px;
+     background: #F9E0E1;
+     text-align: center;
+}
+.containOne
+{
+  background: #c3bebb;
+  position: relative;
+  height: auto; 
+  padding-bottom: 40px;
+}
+.ContOne
+{
+  background: #F1CB00;
+  position: relative;
+  height: auto; 
+  padding-bottom:5px;
+}
+.ContTwo
+{
+    background: #F9E0E1;
+  position: relative;
+  height: auto; 
+  padding-bottom:5px;
+}
+.colWidth
+{
+  width:100%;
+  display:block;
+  border-style: solid;
+  padding: 4em;
+  text-align: center;
+  height: 100%;
+  margin:15px 0px;
+  background: #C3BEBB;
+}
+.maecenCont
+{
+  background: #d2b9b9;
+  position: relative;
+   height: auto; 
+    padding-bottom: 40px;
+}
+.macWidth
+{
+
+  width:100%;
+  display:block;
+  border-style: solid;
+  padding: 4em;
+  text-align: center;
+  height: 100%;
+  margin:15px 0px;
+}
+.socCont
+{
+    background: #3FFF3F;
+     position: relative;
+   height: auto; 
+    padding-bottom: 40px;
+}
+.sectTwo
+{
+    background:#FE606C;
+     position: relative;
+   height: auto; 
+    padding-bottom: 40px;
+}
+.socWid
+{
+  
+  width:100%;
+  display:block;
+  border-style: solid;
+  padding:1em;
+  text-align: center;
+  height:100%;
+  margin:35px 0px;
+}
+
+
+.forCol
+{
+  background: #3F3F3F;
+  position: relative;
+  height: auto; 
+   padding-bottom: 40px;
+}
+.colOne
+{
+  width:100%;
+  display:block;
+  border-style: solid;
+  padding: 4em;
+  text-align: center;
+  height: 100%;
+  margin:25px 0px;
+
+}
+.colTwo
+{
+  width:100%;
+  display:block;
+  border-style: solid;
+  padding: 4em;
+  text-align: center;
+  height: 100%;
+  margin:25px 0px;
+
+}
+.colThree
+{
+  width:100%;
+  display:block;
+  border-style: solid;
+  padding: 4em;
+  text-align: center;
+  height: 100%;
+  margin:25px 0px;
+
+}
+.colFour
+{
+  width:100%;
+  display:block;
+  border-style: solid;
+  padding: 4em;
+  text-align: center;
+  height: 100%;
+  margin:25px 0px;
+}
+
+
+.secOne
+{
+     height:300px;
+    background: #03B6F8;
+    text-align: center;
+}
+.secTwo
+{
+    height:300px;
+    background: #0388F8;
+    text-align: center;
+}
+.rowSet
+{
+  height:100px;
+  background: #3F3F3F;
+  text-align: center;
+}
+
+
+.footOne
+{
+  height:130px;
+  background: #436AD8;
+  text-align: center;
+}
+.footTwo
+{
+  height:130px;
+  background: #ADA591;
+  text-align: center;
+}
+.footThree
+{
+  height:120px;
+  background: #3F3F3F;
+  text-align: center;
+}
